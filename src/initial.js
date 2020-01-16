@@ -1,8 +1,8 @@
 const initial = [
+    ["black", "white", "white", "white", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
-    ["white", "white", "white", "black", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
     ["white", "white", "white", "white", "white", "white", "white", "white"],
